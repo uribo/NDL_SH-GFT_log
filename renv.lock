@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.3.2",
+    "Version": "4.4.0",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -8,13 +8,5 @@
       }
     ]
   },
-  "Packages": {
-    "renv": {
-      "Package": "renv",
-      "Version": "1.0.5",
-      "OS_type": null,
-      "Repository": "CRAN",
-      "Source": "Repository"
-    }
-  }
+  "Packages": {}
 }
