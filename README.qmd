@@ -7,7 +7,7 @@ default-image-extension: ""
 ```{r}
 #| results: asis
 #| echo: FALSE
-glue::glue('![Static Badge](https://img.shields.io/badge/NDLSH-{count}-blue?labelColor=%23FDB062)', count = nrow(readr::read_tsv('data-raw/ndlsh-tsv.tsv', col_select = 1, show_col_types = FALSE)))
+glue::glue('![Static Badge](https://img.shields.io/badge/NDLSH-{count}-blue?labelColor=%23090979&color=%23082289)', count = nrow(readr::read_tsv('data-raw/ndlsh-tsv.tsv', col_select = 1, show_col_types = FALSE)))
 ```
 
 <https://id.ndl.go.jp/information/download/>
