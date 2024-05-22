@@ -3,7 +3,7 @@ NDLSHとNDLGFTのデータのダウンロードとバージョン管理
 
 <https://id.ndl.go.jp/information/download/>
 
-「国立国会図書館典拠データ検索・提供サービス（[Web NDL Authorities](https://id.ndl.go.jp/auth/ndla/）」から、以下の典拠データをダウンロードし、変更内容についてバージョン管理を行う。
+「国立国会図書館典拠データ検索・提供サービス（[Web NDL Authorities](https://id.ndl.go.jp/auth/ndla/)）」から、以下の典拠データをダウンロードし、変更内容についてバージョン管理を行う。
 
 - 国立国会図書館件名標目表（NDLSH）
     - ~~RDF/XML形式データ~~ (`data-raw/dl_ndlsh_rdf.R`)
