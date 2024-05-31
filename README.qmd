@@ -10,6 +10,8 @@ default-image-extension: ""
 glue::glue('![Static Badge](https://img.shields.io/badge/NDLSH-{count}-blue?labelColor=%23090979&color=%23082289)', count = nrow(readr::read_tsv('data-raw/ndlsh-tsv.tsv', col_select = 1, show_col_types = FALSE)))
 ```
 
+[![Update ndlsh-tsv](https://github.com/uribo/NDL_SH-GFT_log/actions/workflows/ndlsh_daily_update.yml/badge.svg)](https://github.com/uribo/NDL_SH-GFT_log/actions/workflows/ndlsh_daily_update.yml)
+
 <https://id.ndl.go.jp/information/download/>
 
 「国立国会図書館典拠データ検索・提供サービス（[Web NDL Authorities](https://id.ndl.go.jp/auth/ndla/)）」から、以下の典拠データをダウンロードし、変更内容についてバージョン管理を行う。
