@@ -2,10 +2,9 @@
 
 
 ![Static
-Badge](https://img.shields.io/badge/NDLSH-20726-blue?labelColor=%23090979&color=%23082289)
+Badge](https://img.shields.io/badge/NDLSH-20728-blue?labelColor=%23090979&color=%23082289)
 
-[![Update
-ndlsh-tsv](https://github.com/uribo/NDL_SH-GFT_log/actions/workflows/ndlsh_daily_update.yml/badge.svg)](https://github.com/uribo/NDL_SH-GFT_log/actions/workflows/ndlsh_daily_update.yml)
+[![](https://github.com/uribo/NDL_SH-GFT_log/actions/workflows/ndlsh_daily_update.yml/badge.svg)](https://github.com/uribo/NDL_SH-GFT_log/actions/workflows/ndlsh_daily_update.yml)
 
 <https://id.ndl.go.jp/information/download/>
 
